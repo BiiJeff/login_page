@@ -3,25 +3,47 @@ body{
 }
 form{
 	text-align:center;
-	border:grey 2px;
+	
 	border-radius: 5px;
 	line-height: 2rem;
-	width: 300px;
+	width: 350px;
 	height: 200px; 
-	background: lightgrey;
+	background: #f0f5f5 ;
+	padding-top: 20px;
 }
 .header{
 	color: grey;
 	padding-top: 8px;
+	font-size: 18px;
+
+
 }
 .login{
-	background-color:#0040ff;
-	height: 35px;
+	background-color:#6666ff;
+	height: 25px;
 	color: white;
 	margin-bottom: 10px;
-	border: 1px solid;
+	border: 1px;
+	width: 240px;
+
 	
 }
-.ForgotYourPassword?{
-	color:#0080ff;
+.Password2{
+	color:#6666ff;
+	text-align: center;
+
+}
+.Email{
+	width: 240px;
+    height: 20px;
+    padding-top:2 px;
+    font-size:13px;
+
+}
+.Password1{
+	width: 240px;
+	 height: 20px;
+	 font-size:13px;
+	 
+
 }
