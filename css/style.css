@@ -1,0 +1,27 @@
+body{
+	background:white;
+}
+form{
+	text-align:center;
+	border:grey 2px;
+	border-radius: 5px;
+	line-height: 2rem;
+	width: 300px;
+	height: 200px; 
+	background: lightgrey;
+}
+.header{
+	color: grey;
+	padding-top: 8px;
+}
+.login{
+	background-color:#0040ff;
+	height: 35px;
+	color: white;
+	margin-bottom: 10px;
+	border: 1px solid;
+	
+}
+.ForgotYourPassword?{
+	color:#0080ff;
+}
